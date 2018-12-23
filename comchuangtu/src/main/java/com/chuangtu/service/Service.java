@@ -8,4 +8,8 @@ public class Service {
         System.out.println("jdjdjjdjj");
         System.out.println("jdjdjjdjj");
     }
+
+    public void getOne(){
+        System.out.println("jdjdkskalakd");
+    }
 }
