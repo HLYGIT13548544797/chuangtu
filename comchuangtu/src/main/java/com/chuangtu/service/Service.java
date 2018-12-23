@@ -1,7 +1,10 @@
 package com.chuangtu.service;
 
 public class Service {
-    public void findOne(){
+    public static void main(String[] args) {
+        findOne();
+    }
+    public static void findOne(){
         System.out.println("jdjdjjdjj");
         System.out.println("jdjdjjdjj");
         System.out.println("jdjdjjdjj");
@@ -12,4 +15,6 @@ public class Service {
     public void getOne(){
         System.out.println("jdjdkskalakd");
     }
+
+
 }
